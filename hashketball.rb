@@ -19,7 +19,17 @@ def game_hash
     :away=>{
      :team_name=>"",
      :colors=>[],
-     :players=>[{},{}]
+     :players=>[{
+       :player_name=>"",
+       :number=>,
+       :shoe=>,
+       :points=>,
+       :rebounds=>,
+       :assists=>,
+       :steals=>,
+       :blocks=>,
+       :slam_dunks=>
+     },{}]
     }
   }
 end
