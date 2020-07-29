@@ -21,9 +21,9 @@ def game_hash
        :points=> 12,
        :rebounds=> 12,
        :assists=> 12,
-       :steals=> ,
-       :blocks=> ,
-       :slam_dunks=>
+       :steals=> 12,
+       :blocks=> 12,
+       :slam_dunks=> 7
      },{
        :player_name=>"",
        :number=> ,
