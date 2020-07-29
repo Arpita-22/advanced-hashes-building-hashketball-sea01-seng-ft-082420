@@ -26,7 +26,7 @@ def game_hash
        :points=> 10,
        :rebounds=> 1,
        :assists=> 1,
-       :steals=>,
+       :steals=> 2,
        :blocks=>,
        :slam_dunks=>
      }]
