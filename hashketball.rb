@@ -85,10 +85,10 @@ def game_hash
        :shoe=> 14,
        :points=> 24,
        :rebounds=> 12,
-       :assists=> 4,
-       :steals=> ,
-       :blocks=> ,
-       :slam_dunks=>
+       :assists=> 12,
+       :steals=> 4,
+       :blocks=> 5,
+       :slam_dunks=> 5
      },{
        :player_name=>"",
        :number=> ,
