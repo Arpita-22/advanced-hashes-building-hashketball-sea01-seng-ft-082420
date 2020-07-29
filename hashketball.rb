@@ -93,9 +93,9 @@ def game_hash
        :player_name=>"Ben Gordon",
        :number=> 8,
        :shoe=> 15,
-       :points=> ,
-       :rebounds=> ,
-       :assists=> ,
+       :points=> 33,
+       :rebounds=> 3,
+       :assists=> 2,
        :steals=> ,
        :blocks=> ,
        :slam_dunks=>
